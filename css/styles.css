@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(200, 224, 248);
+}
+hr {
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+    
+}
+img {
+    height: 150px;
+}
+
+h1 {
+    color: #3f9797;
+}
+
+h3 {
+    color: #3f9797;
+}
